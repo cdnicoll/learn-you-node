@@ -1,0 +1,10 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Node School: [learnyounode](https://nodeschool.io/)",
+  "main": "main.js",
+  "dependencies": {
+    "through2-map": "^3.0.0",
+    "bl":"1.2.1"
+  }
+}
